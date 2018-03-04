@@ -46,5 +46,7 @@ When dependencies are installed run the frontend application:
 ng serve
 ```
 
+and navigate to `http://localhost:4200` in your browser
 
+#
 **Happy coding!**
