@@ -1,6 +1,6 @@
 # Messenger
 
-This a template application for "Messenger" test assignment.
+This repository contains template application (backend & frontend) for "Messenger" test assignment.
 
 ## Prerequisities
 
